@@ -8,4 +8,4 @@ const kTextUncommonColorOne = Color(0xff303030);
 const kTextParagraphColorTwo = Color(0x00a1a1a1);
 const kInputTextColor = Color(0xff303030);
 const kPlaceholderColor = Color(0xffAEAEAE);
-const kButtonBackgroundColor = Color(0xff6342E8);
+const kButtonBackgroundColor = Color(0xfffc5c65);
